@@ -2,6 +2,7 @@
 title: 【Side Project】取得及翻譯YouTube關鍵字
 tags: Side Project, Python
 ---
+
 # 需求
 **從YouTube使用者介面取得影片設定的搜尋關鍵字**
 ## 發想
@@ -19,7 +20,9 @@ grep keywords [檔名]
 ```
 ### 成果
 :o: 取得關鍵字
+
 :x: 只取得文字部分
+
 :x: 翻譯非中/英文的關鍵字
 
 ---
@@ -43,7 +46,9 @@ def GetKeywords(url):
 
 ### 成果
 :o: 取得關鍵字
+
 :o: 只取得文字部分
+
 :x: 翻譯非中/英文的關鍵字
 
 ---
@@ -83,7 +88,9 @@ def kw_trans(url):
 
 ### 成果
 :o: 取得關鍵字
+
 :o: 只取得文字部分
+
 :o: 翻譯非中/英文的關鍵字
 
 ---
