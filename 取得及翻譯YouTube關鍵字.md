@@ -99,7 +99,7 @@ def kw_trans(url):
 
 # 發展
 ## [web app](https://ytkwtr.anvil.app/)
-參考[Turning a Google Colab Notebook into a Web App](https://anvil.works/learn/tutorials/google-colab-to-web-app)將方案3轉為網站應用程式，並在手機上下載。
+參考[Turning a Google Colab Notebook into a Web App](https://anvil.works/learn/tutorials/google-colab-to-web-app)將方案3轉為網站應用程式，並在手機上下載，即可在colab notebook執行期間使用。
 
 網頁版使用畫面:
 
@@ -108,4 +108,3 @@ def kw_trans(url):
 手機版使用畫面:
 
 ![](https://i.imgur.com/ESH4oVe.jpg)
-
